@@ -1,0 +1,41 @@
+
+body {
+
+    margin: auto;
+    max-width: 50%;
+    text-align: center;
+    height: 300px;
+    
+}
+#homepoints{
+    background-color: black;
+    height: 50px;
+    text-align: center;
+    color: red;
+}
+
+#guestpoints{
+    background-color: black;
+    text-align: center;
+    height:50px;
+    color: red;
+}
+
+.home{
+    font-size: larger;
+    color: white;
+}
+.guest{
+    font-size: larger;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(58, 58, 184);
+}
+
+.button{
+    text-decoration: none;;
+}
